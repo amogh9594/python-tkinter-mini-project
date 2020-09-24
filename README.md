@@ -6,3 +6,9 @@ Running python -m tkinter from the command line should open a window demonstrati
 
 * Installtion Cmd : pip install tkinter
 * Import package : import tkinter Or, more often: from tkinter import *
+
+### Project Name 
+* RPS.py : Rock-Paper-Scissors
+* CTF.py : Celsius To Fahrenheit
+* color.py : Color Game
+* quizstar.py : Quiz Game 
